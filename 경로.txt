@@ -1,0 +1,8 @@
+1. 경로 지정
+cd C:\Users\JAEWON\Desktop\PROMPT\literature-reviewer
+
+2. venv activation
+venv\Scripts\activate
+
+app.py 실행
+3. python app.py
